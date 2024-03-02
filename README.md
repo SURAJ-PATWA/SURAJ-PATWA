@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **MERN PROJECT**
 
-- 💬 Ask me about **react , node js , c++,dsa**
+- 💬 Ask me about **React Js , Node js , (Frontend And Backend) ,C++ ,Data Structue And Algorithms,Java , Android **
 
 - 📫 How to reach me **surajpatwa1506@gmail.com**
 
